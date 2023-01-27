@@ -1,6 +1,7 @@
 # Devops-Project-21---Deploy-a-Springboot-App-to-Kubernetes-locally-with-minikube
 Devops Project 21 - Deploy a Springboot  App to Kubernetes locally with minikube
 
+![image](https://user-images.githubusercontent.com/96833570/215114205-ea3b3f8e-d9a1-4daa-bd58-f32a74ede70b.png)
 
 
 
